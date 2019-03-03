@@ -314,14 +314,6 @@
 /*--------------------------------------------*/
 div[class*="layer"], div[class*="layers-"] {
     background: transparent !important;
-}
-
-div[class*="membersWrap-"] {
-    transform:translate(150px);
-    z-index:2;
-    transition:all 300ms ease;
-	background: transparent !important;
-}
 
 div[class*="members"], div[class*="typing"] {
     background: transparent !important;
