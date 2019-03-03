@@ -320,7 +320,6 @@ div[class*="members"], div[class*="typing"] {
 }
 
 div[class*="membersWrap-"]:hover {
-    animation: member 300ms ease;
     transform:translate(0px);
 	background-color: #2e3136 !important;
 	background-color: rgba(0, 0, 0, 0.2) !important;
